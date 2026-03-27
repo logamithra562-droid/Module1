@@ -23,3 +23,4 @@ else:
 
 
 ## Result
+Thus, to write a python program that evaluates and prints the results of conditional statements and the output is verified successfully.
